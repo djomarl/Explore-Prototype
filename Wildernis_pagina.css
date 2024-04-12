@@ -1,0 +1,593 @@
+.mediaViewInfo {
+	--web-view-name: Wildernis pagina;
+	--web-view-id: Wildernis_pagina;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Wildernis_pagina;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Wildernis_pagina {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Wildernis pagina;
+	--web-view-id: Wildernis_pagina;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_12 {
+	opacity: 0.2;
+	fill: rgba(252,252,252,1);
+}
+.Rectangle_12 {
+	filter: drop-shadow(-3px 6px 4px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 729px;
+	height: 582px;
+	left: 237px;
+	top: 480px;
+}
+#Rectangle_13 {
+	opacity: 0.2;
+	fill: rgba(252,252,252,1);
+}
+.Rectangle_13 {
+	filter: drop-shadow(4px 6px 4px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 729px;
+	height: 582px;
+	left: 967px;
+	top: 480px;
+}
+#NoPath_-_Copy_4 {
+	position: absolute;
+	width: 1920px;
+	height: 333px;
+	left: 0px;
+	top: 122px;
+	overflow: visible;
+}
+#Wat_is_de_minimale_leeftijd_om {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 253px;
+	top: 528px;
+	position: absolute;
+	overflow: visible;
+	width: 521px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(31,49,132,1);
+}
+#n_De_minimale_leeftijd_voor_de {
+	opacity: 0.7;
+	left: 253px;
+	top: 559px;
+	position: absolute;
+	overflow: visible;
+	width: 361px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(118,132,197,1);
+}
+#FAQ {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 253px;
+	top: 480px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(31,49,132,1);
+}
+#Zijn_maaltijden_inbegrepen_tij {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 253px;
+	top: 585px;
+	position: absolute;
+	overflow: visible;
+	width: 499px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(31,49,132,1);
+}
+#n_Ja_alle_maaltijden_zijn_inbe {
+	opacity: 0.7;
+	left: 253px;
+	top: 621px;
+	position: absolute;
+	overflow: visible;
+	width: 677px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(118,132,197,1);
+}
+#Wat_gebeurt_er_in_geval_van_no {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 253px;
+	top: 670px;
+	position: absolute;
+	overflow: visible;
+	width: 486px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(31,49,132,1);
+}
+#n_We_hebben_strikte_protocolle {
+	opacity: 0.7;
+	left: 253px;
+	top: 706px;
+	position: absolute;
+	overflow: visible;
+	width: 576px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(118,132,197,1);
+}
+#Hoe_groot_zijn_de_groepen_tijd {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 253px;
+	top: 770px;
+	position: absolute;
+	overflow: visible;
+	width: 507px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(31,49,132,1);
+}
+#n_Om_een_persoonlijke_ervaring {
+	opacity: 0.7;
+	left: 253px;
+	top: 806px;
+	position: absolute;
+	overflow: visible;
+	width: 599px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(118,132,197,1);
+}
+#image-removebg-preview_25_cj {
+	opacity: 0.9;
+	filter: drop-shadow(6px 10px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 156px;
+	height: 104px;
+	left: 882px;
+	top: 5px;
+	overflow: visible;
+}
+#Zijn_er_toiletvoorzieningen_be {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 253px;
+	top: 845px;
+	position: absolute;
+	overflow: visible;
+	width: 634px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(31,49,132,1);
+}
+#n_We_streven_naar_minimale_imp {
+	opacity: 0.7;
+	left: 253px;
+	top: 881px;
+	position: absolute;
+	overflow: visible;
+	width: 625px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 11px;
+	color: rgba(118,132,197,1);
+}
+#Wat_gebeurt_er_als_het_weer_ex {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 253px;
+	top: 919px;
+	position: absolute;
+	overflow: visible;
+	width: 520px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(31,49,132,1);
+}
+#n_Onze_tochten_gaan_in_princip {
+	opacity: 0.7;
+	left: 253px;
+	top: 950px;
+	position: absolute;
+	overflow: visible;
+	width: 675px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(118,132,197,1);
+}
+#Zijn_huisdieren_toegestaan_op_ {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 253px;
+	top: 986px;
+	position: absolute;
+	overflow: visible;
+	width: 639px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(31,49,132,1);
+}
+#n_Om_de_veiligheid_en_ervaring {
+	opacity: 0.7;
+	left: 253px;
+	top: 1019px;
+	position: absolute;
+	overflow: visible;
+	width: 651px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 11px;
+	color: rgba(118,132,197,1);
+}
+#image-removebg-preview_6 {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 28px;
+	top: 29px;
+	overflow: visible;
+	transition: all 0.30000001192092896s ease-out;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#HOME {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 32px;
+	top: 69px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	transition: all 0.30000001192092896s ease-out;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 11px;
+	color: rgba(31,49,132,1);
+}
+#Kleding {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 980px;
+	top: 528px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(31,49,132,1);
+}
+#n_Draag_lagen_voor_aanpasbare_ {
+	opacity: 0.7;
+	left: 978px;
+	top: 561px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(118,132,197,1);
+}
+#Uitrusting_en_Voorbereiding {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 978px;
+	top: 480px;
+	position: absolute;
+	overflow: visible;
+	width: 494px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(31,49,132,1);
+}
+#n_Waterdichte_en_ademende_kled {
+	opacity: 0.7;
+	left: 978px;
+	top: 581px;
+	position: absolute;
+	overflow: visible;
+	width: 332px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(118,132,197,1);
+}
+#Schoeisel {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 980px;
+	top: 602px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(31,49,132,1);
+}
+#n_Stevige_waterdichte_wandelsc {
+	opacity: 0.7;
+	left: 978px;
+	top: 635px;
+	position: absolute;
+	overflow: visible;
+	width: 376px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(118,132,197,1);
+}
+#Slaapuitrusting {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 980px;
+	top: 656px;
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(31,49,132,1);
+}
+#n_Lichtgewicht_slaapzak_geschi {
+	opacity: 0.7;
+	left: 978px;
+	top: 689px;
+	position: absolute;
+	overflow: visible;
+	width: 348px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(118,132,197,1);
+}
+#n_Gesoleerd_slaapmatje_voor_co {
+	opacity: 0.7;
+	left: 978px;
+	top: 709px;
+	position: absolute;
+	overflow: visible;
+	width: 332px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(118,132,197,1);
+}
+#Rugzak {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 982px;
+	top: 730px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(31,49,132,1);
+}
+#n_Een_ruime_goed_passende_rugz {
+	opacity: 0.7;
+	left: 978px;
+	top: 763px;
+	position: absolute;
+	overflow: visible;
+	width: 515px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(118,132,197,1);
+}
+#Eet-_en_kookgerei {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 982px;
+	top: 784px;
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(31,49,132,1);
+}
+#n_Lichtgewicht_kookgerei_en_se {
+	opacity: 0.7;
+	left: 978px;
+	top: 817px;
+	position: absolute;
+	overflow: visible;
+	width: 415px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(118,132,197,1);
+}
+#EHBO-kit {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 982px;
+	top: 858px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(31,49,132,1);
+}
+#n_Een_compacte_EHBO-kit_met_ba {
+	opacity: 0.7;
+	left: 978px;
+	top: 891px;
+	position: absolute;
+	overflow: visible;
+	width: 503px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(118,132,197,1);
+}
+#Insectwerend_middel {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 982px;
+	top: 934px;
+	position: absolute;
+	overflow: visible;
+	width: 246px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(31,49,132,1);
+}
+#n_Een_effectief_insectenwerend {
+	opacity: 0.7;
+	left: 980px;
+	top: 967px;
+	position: absolute;
+	overflow: visible;
+	width: 498px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(118,132,197,1);
+}

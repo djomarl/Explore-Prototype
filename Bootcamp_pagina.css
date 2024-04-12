@@ -1,0 +1,516 @@
+.mediaViewInfo {
+	--web-view-name: Bootcamp pagina;
+	--web-view-id: Bootcamp_pagina;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Bootcamp_pagina;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Bootcamp_pagina {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Bootcamp pagina;
+	--web-view-id: Bootcamp_pagina;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#NoPath_-_Copy_6 {
+	position: absolute;
+	width: 1920px;
+	height: 333px;
+	left: 0px;
+	top: 122px;
+	overflow: visible;
+}
+#image-removebg-preview_25_dc {
+	opacity: 0.9;
+	filter: drop-shadow(6px 10px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 156px;
+	height: 104px;
+	left: 882px;
+	top: 5px;
+	overflow: visible;
+}
+#image-removebg-preview_6_dd {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 28px;
+	top: 29px;
+	overflow: visible;
+	transition: all 0.30000001192092896s ease-out;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#HOME_de {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 32px;
+	top: 69px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	transition: all 0.30000001192092896s ease-out;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 11px;
+	color: rgba(210,153,31,1);
+}
+#Rectangle_12_df {
+	opacity: 0.2;
+	fill: rgba(252,252,252,1);
+}
+.Rectangle_12_df {
+	filter: drop-shadow(5px 6px 4px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 705px;
+	height: 597px;
+	left: 1194px;
+	top: 475px;
+}
+#Getuigenissen_in_Beeld {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 1215px;
+	top: 481px;
+	position: absolute;
+	overflow: visible;
+	width: 398px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(50,113,38,1);
+}
+#Ontdek_de_Intensiteit_van_Onze {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 1215px;
+	top: 529px;
+	position: absolute;
+	overflow: visible;
+	width: 422px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(200,168,127,1);
+}
+#NoPath_-_Copy_8 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1215px;
+	top: 576px;
+	overflow: visible;
+}
+#NoPath_-_Copy_9 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1346px;
+	top: 576px;
+	overflow: visible;
+}
+#NoPath_-_Copy_10 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1477px;
+	top: 576px;
+	overflow: visible;
+}
+#NoPath_-_Copy_11 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1608px;
+	top: 576px;
+	overflow: visible;
+}
+#NoPath_-_Copy_12 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1739px;
+	top: 576px;
+	overflow: visible;
+}
+#NoPath_-_Copy_13 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1215px;
+	top: 666px;
+	overflow: visible;
+}
+#NoPath_-_Copy_14 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1346px;
+	top: 666px;
+	overflow: visible;
+}
+#NoPath_-_Copy_15 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1477px;
+	top: 666px;
+	overflow: visible;
+}
+#NoPath_-_Copy_16 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1608px;
+	top: 666px;
+	overflow: visible;
+}
+#NoPath_-_Copy_17 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1739px;
+	top: 666px;
+	overflow: visible;
+}
+#NoPath_-_Copy_18 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1216px;
+	top: 756px;
+	overflow: visible;
+}
+#NoPath_-_Copy_19 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1347px;
+	top: 756px;
+	overflow: visible;
+}
+#NoPath_-_Copy_20 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1478px;
+	top: 756px;
+	overflow: visible;
+}
+#NoPath_-_Copy_21 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1609px;
+	top: 756px;
+	overflow: visible;
+}
+#NoPath_-_Copy_22 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1740px;
+	top: 756px;
+	overflow: visible;
+}
+#NoPath_-_Copy_23 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1216px;
+	top: 846px;
+	overflow: visible;
+}
+#NoPath_-_Copy_24 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1347px;
+	top: 846px;
+	overflow: visible;
+}
+#NoPath_-_Copy_25 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1478px;
+	top: 846px;
+	overflow: visible;
+}
+#NoPath_-_Copy_26 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1609px;
+	top: 846px;
+	overflow: visible;
+}
+#NoPath_-_Copy_27 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1740px;
+	top: 846px;
+	overflow: visible;
+}
+#NoPath_-_Copy_28 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1215px;
+	top: 936px;
+	overflow: visible;
+}
+#NoPath_-_Copy_29 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1346px;
+	top: 936px;
+	overflow: visible;
+}
+#NoPath_-_Copy_30 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1477px;
+	top: 936px;
+	overflow: visible;
+}
+#NoPath_-_Copy_31 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1608px;
+	top: 936px;
+	overflow: visible;
+}
+#NoPath_-_Copy_32 {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 123px;
+	height: 81px;
+	left: 1739px;
+	top: 936px;
+	overflow: visible;
+}
+#Rectangle_16 {
+	opacity: 0.2;
+	fill: rgba(252,252,252,1);
+}
+.Rectangle_16 {
+	filter: drop-shadow(-3px 6px 4px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1032px;
+	height: 597px;
+	left: 35px;
+	top: 475px;
+}
+#Inleiding_tot_de_Survival_Boot {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 56px;
+	top: 493px;
+	position: absolute;
+	overflow: visible;
+	width: 603px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(50,113,38,1);
+}
+#Welkom_bij_de_Survival_Bootcam {
+	left: 56px;
+	top: 538px;
+	position: absolute;
+	overflow: visible;
+	width: 1000px;
+	height: 73px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(200,168,127,1);
+}
+#Waarom_deelnemen_aan_onze_Surv {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 56px;
+	top: 624px;
+	position: absolute;
+	overflow: visible;
+	width: 470px;
+	height: 25px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(50,113,38,1);
+}
+#Onze_bootcamp_gaat_verder_dan_ {
+	left: 56px;
+	top: 649px;
+	position: absolute;
+	overflow: visible;
+	width: 1000px;
+	height: 67px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(200,168,127,1);
+}
+#Wat_kun_je_verwachten {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 56px;
+	top: 729px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(50,113,38,1);
+}
+#n_Intensieve_Training_Leer_vuu {
+	left: 56px;
+	top: 767px;
+	position: absolute;
+	overflow: visible;
+	width: 983px;
+	height: 67px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(214,143,52,1);
+}
+#n_Teamwork_en_Samenwerking_Onz {
+	left: 56px;
+	top: 847px;
+	position: absolute;
+	overflow: visible;
+	width: 983px;
+	height: 44px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(214,143,52,1);
+}
+#n_Zelfredzaamheid_naar_Nieuwe_ {
+	left: 56px;
+	top: 904px;
+	position: absolute;
+	overflow: visible;
+	width: 983px;
+	height: 67px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(214,143,52,1);
+}
+#n_Nachtelijke_Avonturen_Ga_ver {
+	left: 54px;
+	top: 984px;
+	position: absolute;
+	overflow: visible;
+	width: 983px;
+	height: 44px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(214,143,52,1);
+}
+#Line_12 {
+	opacity: 0.15;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_12 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 609.002px;
+	left: 1128.5px;
+	top: 462.5px;
+	transform: matrix(1,0,0,1,0,0);
+}

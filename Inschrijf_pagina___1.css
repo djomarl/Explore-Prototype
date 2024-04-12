@@ -1,0 +1,107 @@
+.mediaViewInfo {
+	--web-view-name: Inschrijf pagina – 1;
+	--web-view-id: Inschrijf_pagina__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Inschrijf_pagina__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Inschrijf_pagina__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Inschrijf pagina – 1;
+	--web-view-id: Inschrijf_pagina__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#image-removebg-preview_25_ge {
+	opacity: 0.9;
+	filter: drop-shadow(6px 10px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 156px;
+	height: 104px;
+	left: 882px;
+	top: 20px;
+	overflow: visible;
+}
+#Bedankt_voor_uw_aankoop {
+	filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+	left: 324px;
+	top: 153px;
+	position: absolute;
+	overflow: visible;
+	width: 1273px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 92px;
+	color: rgba(31,49,132,1);
+}
+#NoPath_-_Copy_42 {
+	position: absolute;
+	width: 516px;
+	height: 516px;
+	left: 702px;
+	top: 311px;
+	overflow: visible;
+}
+#Rectangle_6_gi {
+	fill: url(#Rectangle_6_gi);
+	stroke: rgba(46,63,143,1);
+	stroke-width: 10px;
+	stroke-linejoin: bevel;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6_gi {
+	filter: drop-shadow(5px 10px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 589px;
+	height: 165px;
+	left: 647px;
+	top: 878px;
+	transition: all 0.30000001192092896s ease-out;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Terug {
+	filter: drop-shadow(5px 10px 6px rgba(0, 0, 0, 0.161));
+	left: 822px;
+	top: 899px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 74px;
+	color: rgba(255,255,255,1);
+}
