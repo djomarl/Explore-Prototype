@@ -9,9 +9,7 @@
 
 <img src="https://imgur.com/66UKNFU.png" alt="project-screenshot" width="500" height="400/">
 
-<img src="https://imgur.com/YE4cfkE.png" alt="project-screenshot" width="500" height="400/">
 
-<img src="https://imgur.com/CHZHORi.png" alt="project-screenshot" width="500" height="400/">
 <br><br><br><br>
 <h2>🐾 Wildernis Verkenningstocht Pagina:</h2>
 <img src="https://imgur.com/x42hSpV.png" alt="project-screenshot" width="700" height="400/">
